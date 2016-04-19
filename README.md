@@ -4,4 +4,4 @@
 
 # Contribution
 
-This is a team work project. The client is implemented by me. The server is implemented by other team members.
+This is a team work project. The `client` is implemented by me and the `server` is implemented by other team members.
